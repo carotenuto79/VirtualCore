@@ -44,4 +44,4 @@ AFRAME.registerComponent('highlight', {
       buttonEls[i].emit('mouseleave');
     }
   }
-})
+});
